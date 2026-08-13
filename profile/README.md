@@ -15,6 +15,5 @@ two environment variables — not a rewrite.
 
 ## Status
 
-Building in the open, pre-launch. The dashboard design and the open-source plan live in the
-[main repo's docs](https://github.com/MillionSend/millionsend/tree/main/docs). Questions and
-ideas → [Discussions](https://github.com/orgs/MillionSend/discussions).
+Building in the open, pre-launch. Questions and ideas →
+[Discussions](https://github.com/orgs/MillionSend/discussions).
