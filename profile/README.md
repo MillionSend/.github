@@ -1,6 +1,8 @@
-# MillionSend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MillionSend/millionsend/main/apps/web/public/logo/millionsend-banner.svg" alt="MillionSend" width="560">
+</p>
 
-**The open-source email platform. Send one. Send a million.**
+<p align="center"><b>The open-source email platform. Send one. Send a million.</b></p>
 
 Self-host on your own AWS SES, or use the hosted cloud. Resend-compatible API, so migrating is
 two environment variables — not a rewrite.
