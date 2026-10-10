@@ -1,6 +1,6 @@
 # Contributing to MillionSend
 
-Thanks for your interest. MillionSend is pre-launch and moving fast — this document will grow
+Thanks for your interest. MillionSend is live and moving fast — this document will grow
 as the codebase does.
 
 ## Where things happen
