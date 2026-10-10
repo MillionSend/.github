@@ -20,8 +20,11 @@ two environment variables — not a rewrite.
 | [millionsend-rust](https://github.com/MillionSend/millionsend-rust) | Rust SDK — crates.io: [`millionsend`](https://crates.io/crates/millionsend) (MIT) |
 | [millionsend-dotnet](https://github.com/MillionSend/millionsend-dotnet) | .NET SDK — NuGet: [`MillionSend`](https://www.nuget.org/packages/MillionSend) (MIT) |
 | [millionsend-elixir](https://github.com/MillionSend/millionsend-elixir) | Elixir SDK — Hex: [`millionsend`](https://hex.pm/packages/millionsend) (MIT) |
+| [millionsend-java](https://github.com/MillionSend/millionsend-java) | Java SDK — Maven Central: [`com.millionsend:millionsend-java`](https://central.sonatype.com/artifact/com.millionsend/millionsend-java) (MIT) |
+| [skills](https://github.com/MillionSend/skills) | Agent skills — send email, manage contacts and broadcasts, self-host (MIT) |
 
 ## Status
 
-Building in the open, pre-launch. Questions and ideas →
+Live since October 2026: [MillionSend Cloud](https://millionsend.com) is open to everyone, and the
+same code self-hosts on your own AWS SES. Still building in the open. Questions and ideas →
 [Discussions](https://github.com/orgs/MillionSend/discussions).
