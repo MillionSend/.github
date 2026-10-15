@@ -13,16 +13,18 @@ as the codebase does.
 ## Pull requests
 
 - Open an issue or discussion before large changes so we can agree on direction first.
-- PR titles follow [Conventional Commits](https://www.conventionalcommits.org)
-  (`feat: …`, `fix: …`, `docs: …`) — we squash-merge, so your PR title becomes the commit.
+- Write PR titles and commit messages as a plain sentence about the change, such as
+  "Refuse subjects over 998 characters on sends, broadcasts and SMTP". We merge with a merge
+  commit, so your commits land as you wrote them.
 - Keep PRs focused; small is fast.
 
 ## Licensing of contributions
 
-- SDK repositories are MIT: contributions land under MIT (inbound = outbound).
-- The product repository is AGPL-3.0. A lightweight Contributor License Agreement will be
-  requested automatically by a bot on your first PR there — it's a one-time comment,
-  signatures are stored in the repository.
+Contributions land under the license of the repository they go to (inbound = outbound). There
+is no Contributor License Agreement to sign.
+
+- SDK repositories are MIT.
+- The product repository is AGPL-3.0.
 
 ## Code of conduct
 
